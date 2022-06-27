@@ -30,7 +30,7 @@ export const AbcsEbook: FunctionComponent = () => (
                         <a
                             className="button btn btn-primary"
                             id="abc-dlbook"
-                            href="https://about.sourcegraph.com/resources/our-abcs-childrens-book-download"
+                            href="/ebooks/sg-abcs-childrens-book.pdf"
                         >
                             Download your book
                         </a>
@@ -47,7 +47,7 @@ export const AbcsEbook: FunctionComponent = () => (
                     </p>
                     <p>
                         That's why we created a new digital children's book titled{' '}
-                        <a href="https://about.sourcegraph.com/resources/our-abcs-childrens-book-download">
+                        <a href="/ebooks/sg-abcs-childrens-book.pdf">
                             <strong>&quot;Our ABCs: Always Be Coding&quot;</strong>
                         </a>
                         —for all children at home that wonder what their techie parents do all day, night, and some
@@ -61,7 +61,7 @@ export const AbcsEbook: FunctionComponent = () => (
                     </p>
                     <p className="text-center">
                         <a
-                            href="https://about.sourcegraph.com/resources/our-abcs-childrens-book-download"
+                            href="/ebooks/sg-abcs-childrens-book.pdf"
                             className="d-block"
                             id="abc-dlbook"
                         >
@@ -77,7 +77,7 @@ export const AbcsEbook: FunctionComponent = () => (
                         <a
                             className="button btn btn-primary"
                             id="abc-dlbook"
-                            href="https://about.sourcegraph.com/resources/our-abcs-childrens-book-download"
+                            href="/ebooks/sg-abcs-childrens-book.pdf"
                         >
                             Download your book
                         </a>

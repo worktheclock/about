@@ -20,10 +20,10 @@ We love what we’ve come up with and hope you will too—a new digital children
 
 <div className="text-center">
     <h2 className="h5 pb-3">Our ABCs: Always Be Coding</h2>
-    <a href="https://about.sourcegraph.com/resources/our-abcs-childrens-book-download" className="d-block" id="abc-dlbook" target="new">
+    <a href="/ebooks/sg-abcs-childrens-book.pdf" className="d-block" id="abc-dlbook" target="new">
         <img src="/blog/our-abcs-hero.png" className="my-1" alt="Our ABCs: Always Be Coding book"/>
     </a>
-    <a href="https://about.sourcegraph.com/resources/our-abcs-childrens-book-download" className="button btn btn-primary mt-4 mb-2" id="abc-dlbook" target="new">Download your book</a>
+    <a href="/ebooks/sg-abcs-childrens-book.pdf" className="button btn btn-primary mt-4 mb-2" id="abc-dlbook" target="new">Download your book</a>
 </div>
 
 The A-Z format introduces simple concepts in a fun and easy-to-understand way so that kids can get curious about coding and perhaps take the first step in beginning their journey in learning how to code. Or at least it will provide an engaging and educational distraction to give you a break for a few minutes!
