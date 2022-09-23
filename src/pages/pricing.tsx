@@ -195,7 +195,7 @@ const PricingPage: FunctionComponent = () => (
                                         data-button-location={buttonLocation.body}
                                         data-button-type="cta"
                                     >
-                                        Contact us
+                                        TEST
                                     </a>
                                 </div>
                             </div>
